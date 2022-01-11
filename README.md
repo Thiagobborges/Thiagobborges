@@ -1,9 +1,9 @@
 ## Hi my name is Thiago
-✅HardWare </br>
-📚SQL </br>
-🕧PHP </br>
-🕧Python </br>
-🕧Linux </br>
+✅HardWare
+📚SQL
+🕧PHP
+🕧Python 
+🕧Linux
 🕧Networks of Computer
 
 <div align="center">
@@ -24,6 +24,4 @@
   
   ##
  
-<div> 
   ![Snake animation](https://github.com/Thiagobborges/Thiagobborges/blob/output/github-contribution-grid-snake.svg)
-</div>
