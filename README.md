@@ -1,9 +1,8 @@
 ## Hi my name is Thiago
 ✅HardWare
-📚SQL
-🕧PHP
-🕧Python 
 ✅Linux
+📚SQL
+🕧Python 
 🕧Networks of Computer
 
 <div align="center">
