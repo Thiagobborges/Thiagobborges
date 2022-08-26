@@ -3,7 +3,7 @@
 📚SQL
 🕧PHP
 🕧Python 
-🕧Linux
+✅Linux
 🕧Networks of Computer
 
 <div align="center">
